@@ -18,4 +18,4 @@ A responsive React single-page portfolio application built for a creative agency
 ## Getting Started
 1. Install dependencies:
    ```bash
-   npm install
+   npm install 
